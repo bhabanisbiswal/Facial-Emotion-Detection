@@ -104,8 +104,8 @@ python FaceDetect_by_image.py    # Image-based detection
 
 ## 📸 Demo
 
-![image alt](demo.jpg)
-![image alt](demo1.jpg)
+![image alt](.jpg)
+![image alt](.jpg)
 
 ---
 
@@ -120,7 +120,9 @@ python FaceDetect_by_image.py    # Image-based detection
 ## 👤 Author
 
 **Bhabani S Biswal** – Python & AI/ML Developer
+
 📧 Email: [bhabanibiswalb17@gmail.com](mailto:bhabanibiswalb17@gmail.com)
+
 🔗 GitHub: [Bhabani S Biswal](https://github.com/bhabanisbiswal)
 
 ---
