@@ -104,8 +104,8 @@ python FaceDetect_by_image.py    # Image-based detection
 
 ## 📸 Demo
 
-![image alt](project_structure.jpg)
-![image alt](output.jpg)
+![image alt](project_structure.png)
+![image alt](output.png)
 
 ---
 
